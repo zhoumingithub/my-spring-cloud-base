@@ -7,10 +7,14 @@
     <groupId>cloud.base.parent</groupId>
     <artifactId>spring-cloud-base</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+
     <modules>
         <module>cloud-node01-parent</module>
+        <module>cloud-node02-parent</module>
+        <module>cloud-block-code</module>
     </modules>
-    <packaging>pom</packaging>
 
     <!-- 依赖版本管理 -->
     <properties>

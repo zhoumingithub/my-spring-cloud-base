@@ -3,6 +3,10 @@
 <a href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483697&idx=1&sn=723b38f79daf396b0d902a856e70e3fc&chksm=fdf45589ca83dc9fd852f9d10bbbca6d18124757bd31c5235f7bbd918f3c7e92e144ff384443&token=949711998&lang=zh_CN#rd">
 1、SpringCloud微服务：Eureka组件之服务注册与发现</a><br/>
 
+<a href="">
+2、SpringCloud微服务：Ribbon和Feign组件实现负载均衡</a><br/>
+
+持续更新中...
 
 ## 项目简介
 
