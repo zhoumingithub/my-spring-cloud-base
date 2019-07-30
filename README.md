@@ -12,7 +12,6 @@
 
 1、IP 映射配置
 ```
-  
   127.0.0.1 registry01.com
   127.0.0.1 registry02.com
   127.0.0.1 provider-8001.com
