@@ -13,6 +13,7 @@
     <modules>
         <module>cloud-node01-parent</module>
         <module>cloud-node02-parent</module>
+        <module>cloud-node03-parent</module>
         <module>cloud-block-code</module>
     </modules>
 

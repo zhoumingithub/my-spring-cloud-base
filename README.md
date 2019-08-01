@@ -6,6 +6,9 @@
 <a href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483981&idx=1&sn=1c5272fca0521ad85fb9d8b2be666492&chksm=fdf456f5ca83dfe3e0cd9caadc2ecf646584af805be2999935c792b839f2bfadbe5773249e97&token=2068987278&lang=zh_CN#rd">
 2、SpringCloud微服务：Ribbon和Feign组件实现负载均衡</a><br/>
 
+<a href="">
+3、SpringCloud微服务：Hystrix组件实现服务熔断</a><br/>
+
 持续更新中...
 
 ## 项目简介
