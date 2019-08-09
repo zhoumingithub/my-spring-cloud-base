@@ -9,6 +9,9 @@
 <a href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483985&idx=1&sn=7e27c66495a896edeaa3490314a0f57f&chksm=fdf456e9ca83dfff2b1ade8c4f9c0cec0b1c3a9cf248d0cb11002d75d20b180dad2dd2d2f9e9&token=1511677484&lang=zh_CN#rd">
 3、SpringCloud微服务：Hystrix组件实现服务熔断</a><br/>
 
+<a href="">
+4、SpringCloud微服务：Turbine组件，实现微服务集群监控</a><br/>
+
 持续更新中...
 
 ## 项目简介

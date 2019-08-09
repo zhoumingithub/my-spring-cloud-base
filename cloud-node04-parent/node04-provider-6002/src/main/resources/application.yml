@@ -1,0 +1,12 @@
+server:
+  port: 6002
+spring:
+  application:
+    name: node04-provider-6002
+eureka:
+  instance:
+    hostname: provider-6002
+    prefer-ip-address: true
+  client:
+    service-url:
+      defaultZone: http://registry01.com:7001/eureka/

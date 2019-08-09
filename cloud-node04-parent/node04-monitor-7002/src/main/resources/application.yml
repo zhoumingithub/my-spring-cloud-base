@@ -1,0 +1,18 @@
+server:
+  port: 7002
+spring:
+  application:
+    name: node04-monitor-7002
+eureka:
+  client:
+    service-url:
+      # 集群注册中心
+      defaultZone: http://registry01.com:7001/eureka/
+turbine:
+  aggregator:
+    cluster-config: default
+  # 配置监控服务名称
+  # spring:application:name
+  app-config: node04-provider-6001,node04-provider-6002
+  # 指定集群名称
+  cluster-name-expression: new String("default")
