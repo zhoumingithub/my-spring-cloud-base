@@ -9,8 +9,11 @@
 <a href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483985&idx=1&sn=7e27c66495a896edeaa3490314a0f57f&chksm=fdf456e9ca83dfff2b1ade8c4f9c0cec0b1c3a9cf248d0cb11002d75d20b180dad2dd2d2f9e9&token=1511677484&lang=zh_CN#rd">
 3、SpringCloud微服务：Hystrix组件实现服务熔断</a><br/>
 
-<a href="">
+<a href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484004&idx=1&sn=197dab3b3576fbab90beedfd314fc94c&chksm=fdf456dcca83dfca0efe407c654795bb3310ac85d3ae240b6fb72db2873e3654506421739a2a&token=51353754&lang=zh_CN#rd">
 4、SpringCloud微服务：Turbine组件，实现微服务集群监控</a><br/>
+
+<a href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484022&idx=1&sn=51ae6cf43e67a0213207d34a78e73afd&chksm=fdf456ceca83dfd878110f2c4386d547c95d0718948499c5a1fc94fc114474cd7c028bb40640&token=51353754&lang=zh_CN#rd">
+5、SpringCloud微服务：Zuul组件，实现路由网关控制</a><br/>
 
 持续更新中...
 
