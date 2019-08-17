@@ -1,0 +1,30 @@
+server:
+  port: 9001
+spring:
+  application:
+    name: config-server-9001
+  profiles:
+    # 读取本地
+    # active: native
+    # 读取Git
+    active: git
+  cloud:
+    config:
+      server:
+        native:
+          search-locations: classpath:/config
+        git:
+          uri: https://gitee.com/cicadasmile/spring-cloud-config.git
+          search-paths: /cloudbaseconfig
+          # 非公开需要的登录账号
+          username:
+          password:
+      label: master
+
+eureka:
+  instance:
+    hostname: config-server
+    prefer-ip-address: true
+  client:
+    service-url:
+      defaultZone: http://registry01.com:7001/eureka/

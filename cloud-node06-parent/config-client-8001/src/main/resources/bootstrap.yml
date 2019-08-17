@@ -1,0 +1,41 @@
+server:
+  port: 8001
+spring:
+  application:
+    name: config-client-8001
+  profiles:
+    active: dev
+  cloud:
+    config:
+      # 读取本地配置 ---------------------------
+      #uri: http://localhost:9001
+      ## 读取策略：快速失败
+      #fail-fast: true
+      ## 读取的文件名：无后缀
+      #name: client-8001
+      ## 读取的配置环境
+      #profile: dev  # client-8001-dev.yml
+      # ----------------------------------------
+
+      # github上的资源名称 -----------------------
+      name: client-8001
+      # 读取的配置环境
+      profile: dev
+      label: master
+      # 本微服务启动后,通过配置中心6001服务，获取GitHub的配置文件
+      # uri: http://localhost:9001
+      # ----------------------------------------
+
+      # 可以通过 eureka 注册中心获取服务，避免直接使用 上面的 URI
+      discovery:
+        enabled: true
+        service-id: CONFIG-SERVER-9001
+
+eureka:
+  instance:
+    hostname: config-client
+    prefer-ip-address: true
+  client:
+    register-with-eureka: false
+    service-url:
+      defaultZone: http://registry01.com:7001/eureka/
