@@ -24,6 +24,8 @@
 
 ### 二、应用案例
 
+源代码地址：【[GitHub点这里](https://github.com/cicadasmile/cloud-shard-jdbc)】    【[码云.点这里](https://gitee.com/cicadasmile/cloud-shard-jdbc)】
+
 <a href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483723&idx=1&sn=4c4c59e13a05b7cf3ea23054d28a3e22&chksm=fdf455f3ca83dce566173d887ee8f274cc154e72c9c1af29cfecc02e3e77220d9f8b1f3b90c4&token=949711998&lang=zh_CN#rd">
 1、SpringBoot2.0 整合 shard-jdbc 中间件，实现数据分库分表</a><br/>
 
