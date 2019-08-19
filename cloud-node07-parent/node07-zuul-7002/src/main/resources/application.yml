@@ -1,0 +1,31 @@
+server:
+  port: 7002
+spring:
+  application:
+    name: node07-zuul-7002
+  zipkin:
+    base-url: http://localhost:7003
+  sleuth:
+    sampler:
+      # 数据 100% 上传
+      percentage: 1.0
+eureka:
+  instance:
+    prefer-ip-address: true
+  client:
+    service-url:
+      defaultZone: http://registry01.com:7001/eureka/
+zuul:
+  # 前缀，可以用来做版本控制
+  prefix: /v1
+  # 禁用默认路由，执行配置的路由
+  ignored-services: "*"
+  routes:
+    # 配置6001接口微服务
+    pro6001:
+      serviceId: node07-provider-6001
+      path: /api-6001/**
+    # 配置6002接口微服务
+    pro6002:
+      serviceId: node07-provider-6002
+      path: /api-6002/**

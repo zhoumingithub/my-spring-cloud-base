@@ -1,0 +1,12 @@
+server:
+  port: 7003
+spring:
+  application:
+    name: node07-zipkin-7003
+eureka:
+  instance:
+    hostname: zipkin-7003
+    prefer-ip-address: true
+  client:
+    service-url:
+      defaultZone: http://registry01.com:7001/eureka/
