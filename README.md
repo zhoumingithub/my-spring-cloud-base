@@ -20,7 +20,7 @@
 <a href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484029&idx=1&sn=6f7b34a7a98c695b16214c73a7af1f24&chksm=fdf456c5ca83dfd389bb573eb0dcff877c8201ae607d6de947c27ced238a8e2a515388440fe3&token=693087170&lang=zh_CN#rd">
 6、SpringCloud微服务：Config组件，实现配置统一管理</a><br/>
 
-<a href="">
+<a href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484041&idx=1&sn=8af57497c4ad1036cd0c7a014385c737&chksm=fdf45631ca83df27cbc9274a72eed0fef22ad5e018bcf2f81e50d3a8e4d924965ef08ba017d9&token=1730846991&lang=zh_CN#rd">
 7、SpringCloud微服务：Zipkin组件，实现请求链路追踪</a><br/>
 
 持续更新中...
