@@ -23,6 +23,9 @@
 <a href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484041&idx=1&sn=8af57497c4ad1036cd0c7a014385c737&chksm=fdf45631ca83df27cbc9274a72eed0fef22ad5e018bcf2f81e50d3a8e4d924965ef08ba017d9&token=1730846991&lang=zh_CN#rd">
 7、SpringCloud微服务：Zipkin组件，实现请求链路追踪</a><br/>
 
+[8、SpringCloud基础组件总结，与Dubbo框架、Boot框架对比分析](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484056&idx=1&sn=91b7f3c01d8fcc1513150181e22ce264&chksm=fdf45620ca83df36aa94660a6e8b781017676c0ba1555c3c70ed83e3ded8dab82bef9209ba5b&token=1761632241&lang=zh_CN#rd)
+<br/>
+
 持续更新中...
 
 ### 二、应用案例
