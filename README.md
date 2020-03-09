@@ -10,14 +10,15 @@
 [06、SpringCloud微服务：Config组件，实现配置统一管理](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484029&idx=1&sn=6f7b34a7a98c695b16214c73a7af1f24&chksm=fdf456c5ca83dfd389bb573eb0dcff877c8201ae607d6de947c27ced238a8e2a515388440fe3&token=693087170&lang=zh_CN#rd)<br/>
 [07、SpringCloud微服务：Zipkin组件，实现请求链路追踪](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484041&idx=1&sn=8af57497c4ad1036cd0c7a014385c737&chksm=fdf45631ca83df27cbc9274a72eed0fef22ad5e018bcf2f81e50d3a8e4d924965ef08ba017d9&token=1730846991&lang=zh_CN#rd)<br/>
 [08、SpringCloud基础组件总结，与Dubbo框架、Boot框架对比分析](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484056&idx=1&sn=91b7f3c01d8fcc1513150181e22ce264&chksm=fdf45620ca83df36aa94660a6e8b781017676c0ba1555c3c70ed83e3ded8dab82bef9209ba5b&token=1761632241&lang=zh_CN#rd)<br/>
+[09、SpringCloud微服务：阿里开源组件Nacos，服务和配置管理](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484419&idx=1&sn=2b0a9568a6a4dbe61e4bd9a794ce9511&chksm=fdf450bbca83d9ade4a87059d505822c65fe1b472517b8bcfa175e3a8f34aa9cc144f0e4959c&token=1530600379&lang=zh_CN#rd)<br/>
 
 ### 二、应用案例
 
 源代码地址：【[GitHub点这里](https://github.com/cicadasmile/cloud-shard-jdbc)】    【[码云.点这里](https://gitee.com/cicadasmile/cloud-shard-jdbc)】
 
-1、[SpringBoot2 整合 shard-jdbc 中间件，实现数据分库分表](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483713&idx=1&sn=cd4228e19d07e0371af7ef06515f4298&chksm=fdf455f9ca83dcef81c44f10bff15a3d3a29553746eef9cad9d4e2a13c5d5709d95a375bff0a&token=582428657&lang=zh_CN#rd)<br/>
-2、[基于Shard-Jdbc分库分表模式下，数据库扩容方案描述](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483723&idx=1&sn=4c4c59e13a05b7cf3ea23054d28a3e22&chksm=fdf455f3ca83dce566173d887ee8f274cc154e72c9c1af29cfecc02e3e77220d9f8b1f3b90c4&token=1249750178&lang=zh_CN#rd)<br/>
-3、[基于SpringCloud实现Shard-Jdbc的分库分表模式，数据库扩容方案](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483732&idx=1&sn=ac0ecd8443ccd7b6f68955023e2291a3&chksm=fdf455ecca83dcfacd2aecc7b6f20deef13ba429f3b0da27159aa67581736a7f492732ae73c8&token=949711998&lang=zh_CN#rd)<br/>
+[01、SpringBoot2 整合 shard-jdbc 中间件，实现数据分库分表](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483713&idx=1&sn=cd4228e19d07e0371af7ef06515f4298&chksm=fdf455f9ca83dcef81c44f10bff15a3d3a29553746eef9cad9d4e2a13c5d5709d95a375bff0a&token=582428657&lang=zh_CN#rd)<br/>
+[02、基于Shard-Jdbc分库分表模式下，数据库扩容方案描述](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483723&idx=1&sn=4c4c59e13a05b7cf3ea23054d28a3e22&chksm=fdf455f3ca83dce566173d887ee8f274cc154e72c9c1af29cfecc02e3e77220d9f8b1f3b90c4&token=1249750178&lang=zh_CN#rd)<br/>
+[03、基于SpringCloud实现Shard-Jdbc的分库分表模式，数据库扩容方案](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483732&idx=1&sn=ac0ecd8443ccd7b6f68955023e2291a3&chksm=fdf455ecca83dcfacd2aecc7b6f20deef13ba429f3b0da27159aa67581736a7f492732ae73c8&token=949711998&lang=zh_CN#rd)<br/>
 
 ## 环境配置
 

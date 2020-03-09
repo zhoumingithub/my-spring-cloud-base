@@ -18,6 +18,7 @@
         <module>cloud-node05-parent</module>
         <module>cloud-node06-parent</module>
         <module>cloud-node07-parent</module>
+        <module>cloud-node08-parent</module>
         <module>cloud-block-code</module>
     </modules>
 

@@ -1,0 +1,7 @@
+server:
+  port: 8002
+spring:
+  application:
+    name: node08-nacos-client
+  profiles:
+    active: dev
