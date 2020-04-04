@@ -1,0 +1,7 @@
+server:
+  port: 9002
+spring:
+  application:
+    name: node09-resource-9002
+  profiles:
+    active: dev
