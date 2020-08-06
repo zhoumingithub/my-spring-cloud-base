@@ -20,6 +20,7 @@
         <module>cloud-node07-parent</module>
         <module>cloud-node08-parent</module>
         <module>cloud-node09-parent</module>
+        <module>cloud-node10-parent</module>
         <module>cloud-block-code</module>
     </modules>
 

@@ -1,0 +1,20 @@
+server:
+  port: 9011
+spring:
+  application:
+    name: node10-dubbo-client
+  cloud:
+    nacos:
+      discovery:
+        server-addr: http://localhost:8848
+      config:
+        server-addr: http://localhost:8848
+# Dubbo服务配置
+dubbo:
+  protocol:
+    name: dubbo
+    port: -1
+  registry:
+    address: spring-cloud://localhost
+  cloud:
+    subscribed-services: node10-dubbo-server
