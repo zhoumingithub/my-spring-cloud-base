@@ -15,6 +15,7 @@
 |09|[微服务基础：Nacos组件，服务和配置管理](https://mp.weixin.qq.com/s/adwfdDGg9DQleYLECA8raQ)|
 |10|[微服务基础：Sentinel组件，服务限流和降级](https://mp.weixin.qq.com/s/L_Q9PyPKngmCx-c94o0UmA)|
 |11|[微服务基础：基于Nacos组件，整合Dubbo框架](https://mp.weixin.qq.com/s/Z_4i3SP3mRDMOSYBRQFQhQ)|
+|12|[微服务基础：整合Seata中间件，分布式事务管理](https://mp.weixin.qq.com/s/NoQaQUDQcdGIXbHwcJZPkw)|
 
 ### 二、应用案例
 
