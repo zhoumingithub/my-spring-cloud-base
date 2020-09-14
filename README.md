@@ -25,17 +25,6 @@
 |01|[微服务应用：分库分表模式下，数据库扩容方案](https://mp.weixin.qq.com/s/yCRwHGUd7xzQeEhoXFeO-w)|
 |02|[微服务应用：Shard-Jdbc分库分表，扩容方案实现](https://mp.weixin.qq.com/s/QHF4qFP0JUhmievlj3FQPQ)|
 
-## 环境配置
-
-### 一、基础组件模块
-
-1、IP 映射配置
-```
-  127.0.0.1 registry01.com
-  127.0.0.1 registry02.com
-  127.0.0.1 provider-8001.com
-``` 
-
 ## 关于作者
 <p align="left">
 <img src="https://raw.githubusercontent.com/cicadasmile/blog-article-catalog/d9affbe553a2f8bb9df59e54eeac691b67969328/blog-image/gzhinfo.svg" alt="公众号">

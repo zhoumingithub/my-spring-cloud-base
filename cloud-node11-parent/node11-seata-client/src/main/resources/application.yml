@@ -1,0 +1,16 @@
+server:
+  port: 7007
+spring:
+  # 事务组的名称
+  cloud:
+    alibaba:
+      seata:
+        tx-service-group: my_test_tx_group
+  application:
+    name: node02-consume-8002
+eureka:
+  client:
+    register-with-eureka: false
+    service-url:
+      # 集群注册中心
+      defaultZone: http://127.0.0.1:8761/eureka/

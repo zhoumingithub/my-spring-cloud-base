@@ -1,0 +1,14 @@
+spring:
+  # 事务组的名称
+  cloud:
+    alibaba:
+      seata:
+        tx-service-group: my_test_tx_group
+  # 数据源配置
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    druid:
+      driverClassName: com.mysql.jdbc.Driver
+      url: jdbc:mysql://127.0.0.1:3306/seata_account?useUnicode=true&characterEncoding=UTF8&zeroDateTimeBehavior=convertToNull&useSSL=false
+      username: root
+      password: 123456
