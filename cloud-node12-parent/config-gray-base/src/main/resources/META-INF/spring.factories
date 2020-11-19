@@ -1,0 +1,3 @@
+# 配置加载
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.gray.base.config.GrayRule

@@ -1,0 +1,15 @@
+server:
+  port: 7001
+spring:
+  application:
+    name: node12-eureka-7001
+eureka:
+  instance:
+    instance-id: node12-eureka-id
+    hostname: node12-eureka-hostname
+    prefer-ip-address: true
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+    service-url:
+      defaultZone: http://127.0.0.1:7001/eureka/

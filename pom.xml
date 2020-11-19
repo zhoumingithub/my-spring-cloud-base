@@ -23,6 +23,7 @@
         <module>cloud-node10-parent</module>
         <module>cloud-block-code</module>
         <module>cloud-node11-parent</module>
+        <module>cloud-node12-parent</module>
     </modules>
 
     <!-- 依赖版本管理 -->
