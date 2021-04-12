@@ -1,0 +1,7 @@
+zipkin请求链路追踪分为两部分：zipkin-server和zipkin-client
+zipkin服务端，使用zipkin-server模块构建生成的zipkin-server-2.23.3-SNAPSHOT-exec.jar文件作为服务器，处理客户端数据，并提供页面查询
+zipkin客户端，以maven的形式引入项目，并在配置文件中指定服务端地址
+
+本项目是zipkin-server代码
+
+开源项目地址：https://github.com/cicadasmile/spring-cloud-base
